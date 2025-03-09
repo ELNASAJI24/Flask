@@ -1,0 +1,5 @@
+train: 'C:/Users/hp/Downloads/ww/model_initial_1/alzheimers_normal_dataset/train'
+val:'C:/Users/hp/Downloads/ww/model_initial_1/Valid'
+
+nc:4
+names:['Non Dementia','Mild Dementia','Moderate Dementia','Very Mild Dementia']
